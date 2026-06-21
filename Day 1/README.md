@@ -28,12 +28,7 @@ A formal frontend application with two buttons: snowflakes and balloons. When th
 - `notes.md` — my notes and reflections
 
 ## Evidence
-![Local app running](Pictures/Screenshot%202026-06-21%20222645.png)
-![Local app running](Pictures/Screenshot%2026-06-21%223058.png)
+![App specs](Pictures/Screenshot%202026-06-21%20222645.png)
+![Picture of Main UI](Pictures/Screenshot%2026-06-21%223058.png)
 ## Reflection
-
-Write 5–8 lines:
-- What worked?
-- What confused me?
-- What would I revisit?
-- How does this connect to agent deployment?
+This was a thorough intro to both Antigravity and Google AI studio. I learnt more about the capabilities of the variou spre-existing agents as well as how to use them in simple projects for automation or UI design. 
