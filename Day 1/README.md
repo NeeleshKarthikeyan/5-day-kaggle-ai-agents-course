@@ -28,6 +28,7 @@ A formal frontend application with two buttons: snowflakes and balloons. When th
 - `notes.md` — my notes and reflections
 
 ## Evidence
+<img width="1167" height="257" alt="image" src="https://github.com/user-attachments/assets/b331449a-d7b8-488b-a94d-7694f759b302" />
 
 
 ## Reflection
